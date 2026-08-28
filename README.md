@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi you🫵! I'm Wildan Wibisono
+
+![Wildan](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHl0Mm83ZWU1b2RyeTh5Y2JjemVvemY5dmM4bHVleW5jeXkwamE0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3W8NH0LLhTBvMaCTXi/giphy.gif)
 
 <!--
 **WildanWibi/WildanWibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
