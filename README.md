@@ -22,3 +22,23 @@ Here are some ideas to get you started:
 ![https://www.instagram.com/wiildanwibii_?igsi=MXc2dHN3bzB1dXRveA%3D%3D&utm_source=qr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  ![https://www.facebook.com/share/1EWbAtUZpD/?mibextid=wwXIfr](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)  ![https://www.tiktok.com/@wildanccc?_r=1&_t=ZS-99GDAIy20Av](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)  ![wa.me/628888054853](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white) 
 
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=iuix6iq1xi2drxdu57n1s53w8&count=3&width=490&album=1&footer=wave)
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WildanWibi/WildanWibi/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WildanWibi/WildanWibi/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/WildanWibi/WildanWibi/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/WildanWibi/WildanWibi/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=WildanWibi.WildanWibi&"  />
+</div>
+
+###
